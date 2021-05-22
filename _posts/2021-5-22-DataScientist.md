@@ -8,7 +8,7 @@ These insights are used by businesses such as (Amazon, Netflix, Facebook, Tesla,
 Moreover, insights provided by larger amounts of data are needed to be explored by a professional who can not only understand statistics, but also add greater value to a customer’s experiences by using large amounts of data and implementing innovated targeted business strategies. Unlike the traditional statistician, a data scientist has the required skills to go beyond analyzing data and rather aid in using analyses to make high value predictions. 
 Data scientists learn statistics, as a statistician would, in the context of innovating the strategies used to increase the value of a business and its outcomes. These scientists understand how people use a certain product or service and the company’s goals to create a tailored business strategy using statistical analyses done on the data available to them. Without this understanding, the data may not have practical value for a business due to losses in translation between the fields of statistics and business. Therefore, it is a data scientist’s job to have the knowledge to implement statistics and use the relevant data available at hand in providing answers to business questions. 
 
-Data Scientist is expected to have knowledge of following areas to perform her/his duties –
+Data Scientist is expected to have knowledge of following areas to perform her/his duties
 1. Domain knowledge of the business
 2. Ability to translate business requirements into a statistical problem
 3. Ability to Identify Statistical approach to the problem. (same as 2)
