@@ -9,14 +9,14 @@ Moreover, insights provided by larger amounts of data are needed to be explored 
 Data scientists learn statistics, as a statistician would, in the context of innovating the strategies used to increase the value of a business and its outcomes. These scientists understand how people use a certain product or service and the company’s goals to create a tailored business strategy using statistical analyses done on the data available to them. Without this understanding, the data may not have practical value for a business due to losses in translation between the fields of statistics and business. Therefore, it is a data scientist’s job to have the knowledge to implement statistics and use the relevant data available at hand in providing answers to business questions. 
 
 Data Scientist is expected to have knowledge of following areas to perform her/his duties –
-1)	Domain knowledge of the business
-2)	Ability to translate business requirements into a statistical problem
-3)	Ability to Identify Statistical approach to the problem. (same as 2)
-4)	Understand tradeoffs related to model and parameters selection
-5)	Communicate results and uncertainties to business leaders who may not have a rich statistical background.
-6)	Have knowledge of statistical programming, to be able to select right software tools for the job.
-7)	Degree in Statics 
-8)	Good analytical skills
+1. Domain knowledge of the business
+2. Ability to translate business requirements into a statistical problem
+3. Ability to Identify Statistical approach to the problem. (same as 2)
+4. Understand tradeoffs related to model and parameters selection
+5. Communicate results and uncertainties to business leaders who may not have a rich statistical background.
+6. Have knowledge of statistical programming, to be able to select right software tools for the job.
+7. Degree in Statics 
+8. Good analytical skills
 
 Both data scientists and statisticians have knowledge of statistics. Traditional statisticians deal more with the theoretical aspect of solving business/institution tasks. On the other hand, a data scientist would act more as a bridge between a statistician and business user and/or a SW programmer.
 Traditional statisticians were more focused on designing experiments, collecting data and building models to best describe inference or causal effects. Contrastingly, data scientists mostly optimize statistic tools to better predict and/or prescribe outcomes enhancing business outcomes.
