@@ -1,6 +1,6 @@
 ---
 layout: post
-#title: Take on what data scientist is about?
+title: Take on what data scientist is about?
 ---
 
 Abundant computing power, reduced data storage costs, and services of on demand computing storage has allowed businesses and institutions to gain better insight from data than ever before. 
