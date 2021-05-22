@@ -1,3 +1,8 @@
+---
+layout: post
+title: Take on what data scientist is about?
+---
+
 ## What do you think being a data scientist is about?  
 Abundant computing power, reduced data storage costs, and services of on demand computing storage has allowed businesses and institutions to gain better insight from data than ever before. 
 These insights are used by businesses such as (Amazon, Netflix, Facebook, Tesla, etc.) to differentiate themselves over their competitors and create a more valuable experience for customers. 
