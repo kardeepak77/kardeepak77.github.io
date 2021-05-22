@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Take on what data scientist is about?
+#title: Take on what data scientist is about?
 ---
 
 ## What do you think being a data scientist is about?  
