@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Deepak Karawande
+![Image of Yaktocat](/images/Deepak.jfif)
 
-### More Information
+Director Product Management @ Dell Technologies
+Student of Master of Statistics @ NCSU
+Executive MBA @ Fuqua School of Business (2018)
+Bachelor of Engineering @ MIT(India) 1998
 
-A place to include any other types of information that you'd like to include about yourself.
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[kar_deepak@yahoo.com](mailto:kar_deepak@yahoo.com)
