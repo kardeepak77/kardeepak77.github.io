@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How R is different that other programming languages?
+title: How R is different than other programming languages?
 ---
 
 In my programming career, I have used many languages such as C, C++, Java, Perl, Python, PHP, SQL, etc. Each programming language used above had niche over other when it comes to the purpose it was built for.
