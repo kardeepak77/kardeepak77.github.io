@@ -3,8 +3,6 @@ layout: post
 title: "BikeSharing Data Analysis"
 ---
 
-This was a group project (groups of two, see the project 2 assignment page) that involves creating predictive models and automating Markdown reports. Once you’ve completed the project you will also create a blog post linking to your analyses.
-
 This was a group project, where Pramodini Karwande and Deepak Karawande collaborated to
 analyze the bike sharing data set. Analysis included summarizing the data and then try to predict the number of users using predictive models such as Random Forest, Boosted Tree and MLR.
 
