@@ -24,3 +24,6 @@ Our model kept giving error while analyzing Saturday & Sunday data, due to above
 
 # What are your big take-aways from this project?
 There wasn’t single model that outperformed on all weekdays. Different models outperformed on each weekday. So if our goal is prediction, then it is good idea to subset dataset that makes sense logically (in this case based on weekdays) and find models those will perform best on such subsets.
+
+[BikeSharing GitHub Page](https://kardeepak77.github.io/BikeSharing/)
+[GitHub Repo](https://github.com/kardeepak77/BikeSharing)
