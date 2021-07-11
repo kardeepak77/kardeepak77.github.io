@@ -3,8 +3,7 @@ layout: post
 title: "BikeSharing Data Analysis"
 ---
 
-This was a group project, where Pramodini Karwande and Deepak Karawande collaborated to
-analyze the bike sharing data set. Analysis included summarizing the data and then try to predict the number of users using predictive models such as Random Forest, Boosted Tree and MLR.
+This was a group project, where Pramodini Karwande and Deepak Karawande collaborated to analyze the [bike sharing](https://archive.ics.uci.edu/ml/datasets/Bike Sharing Dataset) data set. Analysis included summarizing the data and then try to predict the number of users using predictive models such as Random Forest, Boosted Tree and MLR.
 
 # Process followed:
 1. We decided to use github as source and blog repository and R programming environment for analysis of bike sharing data.
